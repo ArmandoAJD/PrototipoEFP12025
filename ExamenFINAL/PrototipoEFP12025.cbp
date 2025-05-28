@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+  <FileVersion major="1" minor="6" />
+  <Project>
+    <Option title="PrototipoEFP12025" />
+    <Option pch_mode="2" />
+    <Option compiler="gcc" />
+    <Build>
+      <Target title="Debug">
+        <Option output="bin/Debug/PrototipoEFP12025" />
+        <Option object_output="obj/Debug/" />
+        <Option type="1" />
+        <Option compiler="gcc" />
+        <Compiler>
+          <Add option="-g" />
+        </Compiler>
+      </Target>
+    </Build>
+    <Unit filename="main.cpp" />
+    <Unit filename="menu.cpp" />
+    <Unit filename="menu.h" />
+    <Unit filename="crud.cpp" />
+    <Unit filename="crud.h" />
+    <Unit filename="reportes.cpp" />
+    <Unit filename="reportes.h" />
+    <Unit filename="seguridad.cpp" />
+    <Unit filename="seguridad.h" />
+    <Extensions>
+      <code_completion />
+      <debugger />
+    </Extensions>
+  </Project>
+</CodeBlocks_project_file>
